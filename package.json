@@ -1,0 +1,27 @@
+{
+  "name": "wcats",
+  "version": "1.0.0",
+  "description": "copy of wcat tool of linux",
+  "main": "wcatcode.js",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "bin": {
+    "wcats": "wcatcode.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "wcats": "node wcatcode.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishan2021/gitlearning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishan2021/gitlearning/issues"
+  },
+  "homepage": "https://github.com/krishan2021/gitlearning#readme"
+}
